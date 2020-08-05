@@ -1,7 +1,7 @@
 /**
  * Password cracking program
- * Christopher Holzweber, 11803108
- * System oriented programming, WS 2018/2019
+ * Christopher Holzweber
+ * System oriented programming
  */
 
 /* You can use the GNU extensions */

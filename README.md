@@ -39,3 +39,7 @@ Example invocations of your program might look like this:
 ./crack -b hashes.txt 4 5
 see files
 This project is based to run on a Linux operating system
+
+
+The program supports two different hash functions. For the actual implementation you must use the openssl library (libcrypto: https://www.openssl.org/docs/manmaster/crypto/crypto.html; see here for the hashing functions). 
+
