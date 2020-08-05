@@ -1,0 +1,9 @@
+./crack -c michael1 12345 SHA1
+./crack -c michael2 12345 SHA2 1234567890ABCDEF
+./crack -c verena3 passw SHA2 1234567890fedcba
+./crack -c heinrich4 letme SHA1
+./crack -c michael5 1 SHA1 1234567890ABCDEF
+./crack -c michael6 B SHA2
+./crack -c michael7 12 SHA1
+./crack -c michael8 AB SHA2
+./crack -c michael9 bc SHA2
